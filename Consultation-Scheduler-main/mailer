@@ -1,0 +1,9 @@
+MAIL_MAILER=sendinblue
+SENDINBLUE_KEY=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
+MAIL_HOST=smtp-relay.sendinblue.com
+MAIL_PORT=587
+MAIL_USERNAME=akosikidrauhl@gmail.com
+MAIL_PASSWORD=nITKv2fpScbq0yVF
+MAIL_ENCRYPTION=tls
+MAIL_FROM_ADDRESS=noreply@consultationscheduler.com
+MAIL_FROM_NAME="${APP_NAME}"
